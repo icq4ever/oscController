@@ -75,7 +75,7 @@ void draw() {
   text("V1.0 / by icq4ever@gmail.com", 40, 72);
   
   fill(200, 200, 200);
-  text("LISTEN PORT : 3000\nTARGET PORT : 3001\nTARGET IP : LOCALHOST", 40, 120);
+  text("LISTEN PORT : 30000\nTARGET PORT : 30001\nTARGET IP : LOCALHOST", 40, 120);
 }
 
 void sendFloatMessage(String _addr, float _f) {
